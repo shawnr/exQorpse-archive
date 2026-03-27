@@ -119,8 +119,22 @@ body.archive-home {
 }
 
 /* Content warning */
-.archive-about h3:nth-of-type(3) {
-  color: #993300;
+.content-warning {
+  background: #fdf0fc;
+  border: 2px solid #fa7aef;
+  border-radius: 6px;
+  padding: 16px 20px;
+  margin: 28px 0;
+}
+
+.content-warning h3 {
+  color: #d946c7;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.content-warning p {
+  margin-bottom: 0;
 }
 
 /* Meta section */

@@ -291,10 +291,12 @@ body.game-page {
 
 /* Ban warning */
 .userWarning {
-  background: #fff0f0;
-  border: 2px solid #cc0000;
-  padding: 15px;
-  margin: 10px 0;
+  background: #fdf0fc;
+  border: 2px solid #fa7aef;
+  border-radius: 6px;
+  padding: 24px 30px;
+  margin: 40px auto;
+  max-width: 500px;
   font-size: small;
 }
 

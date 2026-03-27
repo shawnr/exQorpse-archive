@@ -591,8 +591,13 @@
         </p>
       </div>`;
 
-    document.getElementById('leftSide').innerHTML = userWarning;
-    document.getElementById('rightSide').innerHTML = '';
+    // Remove the two-column layout and show ban message centered
+    const leftSide = document.getElementById('leftSide');
+    const rightSide = document.getElementById('rightSide');
+    leftSide.style.float = 'none';
+    leftSide.style.width = '100%';
+    leftSide.innerHTML = userWarning;
+    rightSide.style.display = 'none';
     clearChatTimeouts();
   }
 

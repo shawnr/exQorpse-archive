@@ -1,0 +1,1392 @@
+[
+  {
+    "id": 1,
+    "type": "0",
+    "text": "Good game."
+  },
+  {
+    "id": 2,
+    "type": "3",
+    "text": "Nice work, most of you."
+  },
+  {
+    "id": 4,
+    "type": "4",
+    "text": "wow, that was one fo the worst lines evar..."
+  },
+  {
+    "id": 5,
+    "type": "7",
+    "text": "Good stuff, all, except for [user] ..."
+  },
+  {
+    "id": 7,
+    "type": "8",
+    "text": "haha, wow, [user] totally sucks at this, eh?"
+  },
+  {
+    "id": 12,
+    "type": "0",
+    "text": "gg all"
+  },
+  {
+    "id": 13,
+    "type": "0",
+    "text": "nice work"
+  },
+  {
+    "id": 20,
+    "type": "5",
+    "text": "Not impressive, [user] ..."
+  },
+  {
+    "id": 21,
+    "type": "8",
+    "text": "[user] suXX0rZ"
+  },
+  {
+    "id": 22,
+    "type": "1",
+    "text": "nice line [npc]"
+  },
+  {
+    "id": 23,
+    "type": "1",
+    "text": "good job [npc]"
+  },
+  {
+    "id": 24,
+    "type": "3",
+    "text": "Somebody's not trying very hard..."
+  },
+  {
+    "id": 25,
+    "type": "2",
+    "text": "hey [user] - you write much poetry?"
+  },
+  {
+    "id": 26,
+    "type": "2",
+    "text": "hello [user]"
+  },
+  {
+    "id": 27,
+    "type": "0",
+    "text": "hello"
+  },
+  {
+    "id": 28,
+    "type": "2",
+    "text": "welcome [user]"
+  },
+  {
+    "id": 29,
+    "type": "2",
+    "text": "hey [user], let's go"
+  },
+  {
+    "id": 30,
+    "type": "2",
+    "text": "[user], a/s/l?"
+  },
+  {
+    "id": 31,
+    "type": "2",
+    "text": "hiya [user]"
+  },
+  {
+    "id": 32,
+    "type": "2",
+    "text": "hola [user]"
+  },
+  {
+    "id": 33,
+    "type": "2",
+    "text": "whaddup [user]"
+  },
+  {
+    "id": 34,
+    "type": "0",
+    "text": "[npc] you rock my world"
+  },
+  {
+    "id": 35,
+    "type": "0",
+    "text": "yeah, that was a really good round"
+  },
+  {
+    "id": 36,
+    "type": "4",
+    "text": "We were having such good rounds before..."
+  },
+  {
+    "id": 37,
+    "type": "2",
+    "text": "i gotta get me some of what [npc] is smoking."
+  },
+  {
+    "id": 38,
+    "type": "2",
+    "text": "where you from [user]?"
+  },
+  {
+    "id": 39,
+    "type": "1",
+    "text": "i'm from idahho"
+  },
+  {
+    "id": 40,
+    "type": "0",
+    "text": "oooooh-kay... heheh"
+  },
+  {
+    "id": 41,
+    "type": "3",
+    "text": "hmm, need a little help [user]?"
+  },
+  {
+    "id": 42,
+    "type": "3",
+    "text": "is it just me or is this room not as good?"
+  },
+  {
+    "id": 43,
+    "type": "4",
+    "text": "oh, c'mon, he's just new. are you a he? [user]?"
+  },
+  {
+    "id": 44,
+    "type": "2",
+    "text": "have you ever played before [user] ??"
+  },
+  {
+    "id": 45,
+    "type": "2",
+    "text": "i saw [user] before, i think. right?"
+  },
+  {
+    "id": 46,
+    "type": "3",
+    "text": "sheesh..."
+  },
+  {
+    "id": 47,
+    "type": "3",
+    "text": "i think i'm thorooughly underwhelmed..."
+  },
+  {
+    "id": 48,
+    "type": "4",
+    "text": "dude, [npc] should help out [user]"
+  },
+  {
+    "id": 49,
+    "type": "3",
+    "text": "lackluster performance from some, better from others..."
+  },
+  {
+    "id": 50,
+    "type": "3",
+    "text": "nice work, [npc]"
+  },
+  {
+    "id": 51,
+    "type": "2",
+    "text": "[npc], that was a rad line"
+  },
+  {
+    "id": 52,
+    "type": "3",
+    "text": "i always love the stuff you write, [npc]"
+  },
+  {
+    "id": 53,
+    "type": "4",
+    "text": "[npc] - nice work - wow, that was cool"
+  },
+  {
+    "id": 54,
+    "type": "5",
+    "text": "i love those images [npc]"
+  },
+  {
+    "id": 55,
+    "type": "0",
+    "text": "[npc] wrote a good line"
+  },
+  {
+    "id": 56,
+    "type": "3",
+    "text": "[npc] I can tell you are getting better."
+  },
+  {
+    "id": 57,
+    "type": "4",
+    "text": "[npc] makes my head spin (in a good way :)~"
+  },
+  {
+    "id": 58,
+    "type": "0",
+    "text": "i learned all i know from [npc]... ask for lessons ifyou need them"
+  },
+  {
+    "id": 59,
+    "type": "4",
+    "text": "how often does that happen?"
+  },
+  {
+    "id": 60,
+    "type": "4",
+    "text": "what?"
+  },
+  {
+    "id": 61,
+    "type": "5",
+    "text": "i think it was when [user] came that this room wentin the crapper!"
+  },
+  {
+    "id": 62,
+    "type": "9",
+    "text": "noo!! just go home [user]"
+  },
+  {
+    "id": 63,
+    "type": "10",
+    "text": "ack!1111!!!!!!! i'm dying!!!1 bad poetry!!!! KILLZZZZZZzzzz"
+  },
+  {
+    "id": 64,
+    "type": "10",
+    "text": "i'm out"
+  },
+  {
+    "id": 65,
+    "type": "10",
+    "text": "can't handle [user] anymore"
+  },
+  {
+    "id": 66,
+    "type": "9",
+    "text": "[npc] - can we make a private room?"
+  },
+  {
+    "id": 68,
+    "type": "7",
+    "text": "freaking awful [user]"
+  },
+  {
+    "id": 69,
+    "type": "6",
+    "text": "Why would you write something like that?"
+  },
+  {
+    "id": 70,
+    "type": "6",
+    "text": "What do you think [npc]?"
+  },
+  {
+    "id": 71,
+    "type": "6",
+    "text": "Why does questions come up so much?"
+  },
+  {
+    "id": 72,
+    "type": "6",
+    "text": "no doubt"
+  },
+  {
+    "id": 73,
+    "type": "6",
+    "text": "oh noees!"
+  },
+  {
+    "id": 74,
+    "type": "2",
+    "text": "PM me if you want to hook up later (I have a webcam ;)~"
+  },
+  {
+    "id": 75,
+    "type": "2",
+    "text": "can we PM on this?"
+  },
+  {
+    "id": 76,
+    "type": "0",
+    "text": "is there a friends list on this thing?"
+  },
+  {
+    "id": 77,
+    "type": "1",
+    "text": "you shoul dhave seen these people in the last room i was in..."
+  },
+  {
+    "id": 78,
+    "type": "1",
+    "text": "a/s/l ? ? ?"
+  },
+  {
+    "id": 79,
+    "type": "0",
+    "text": "I just read it on GamesFirst.com"
+  },
+  {
+    "id": 80,
+    "type": "1",
+    "text": "can we put links in here?"
+  },
+  {
+    "id": 81,
+    "type": "3",
+    "text": "hey, [user] i was thinking about making a clan for this game..."
+  },
+  {
+    "id": 82,
+    "type": "1",
+    "text": "so i can't see the question before i put in an answer, right?"
+  },
+  {
+    "id": 83,
+    "type": "2",
+    "text": "how can i answer without knowing the question?"
+  },
+  {
+    "id": 84,
+    "type": "3",
+    "text": "how did you hear about this site [user]?"
+  },
+  {
+    "id": 85,
+    "type": "4",
+    "text": "I found some sites where you can get help on this sort of thing... look in the FAQs maybe?"
+  },
+  {
+    "id": 86,
+    "type": "4",
+    "text": "You should practice more, [user]."
+  },
+  {
+    "id": 87,
+    "type": "4",
+    "text": "be nice!"
+  },
+  {
+    "id": 88,
+    "type": "4",
+    "text": "i mean, nobody's perfect, but..."
+  },
+  {
+    "id": 89,
+    "type": "4",
+    "text": "making me nutso [user]"
+  },
+  {
+    "id": 90,
+    "type": "4",
+    "text": "c'mon people, get it together..."
+  },
+  {
+    "id": 91,
+    "type": "5",
+    "text": "ok, seriously, this is a tipping point"
+  },
+  {
+    "id": 92,
+    "type": "5",
+    "text": "worst round yet [user]"
+  },
+  {
+    "id": 93,
+    "type": "5",
+    "text": "usually i think the n00bs are gettigng better by now [user]"
+  },
+  {
+    "id": 94,
+    "type": "5",
+    "text": "i suggest carrying a notebook to write down your good ideas for here"
+  },
+  {
+    "id": 95,
+    "type": "5",
+    "text": "is [user] like the slowest typer here?"
+  },
+  {
+    "id": 96,
+    "type": "5",
+    "text": "do you remember when i firsst started [npc]? was i this bad?"
+  },
+  {
+    "id": 97,
+    "type": "5",
+    "text": "kekekekekeke"
+  },
+  {
+    "id": 98,
+    "type": "6",
+    "text": "we need to do soemthing about [user]"
+  },
+  {
+    "id": 99,
+    "type": "6",
+    "text": "wow, harsh"
+  },
+  {
+    "id": 100,
+    "type": "6",
+    "text": "normally i wouldn't say anything, but i agree"
+  },
+  {
+    "id": 101,
+    "type": "6",
+    "text": "i never get to enter the question..."
+  },
+  {
+    "id": 102,
+    "type": "6",
+    "text": "i hate questions"
+  },
+  {
+    "id": 103,
+    "type": "7",
+    "text": "verses is my fave game mode"
+  },
+  {
+    "id": 104,
+    "type": "7",
+    "text": "is there a way to get rid of [user]?"
+  },
+  {
+    "id": 105,
+    "type": "7",
+    "text": "[user] could start TRYING -- that would be a start."
+  },
+  {
+    "id": 106,
+    "type": "7",
+    "text": "geez!"
+  },
+  {
+    "id": 107,
+    "type": "7",
+    "text": "you know, some people like to make GOOD poems here..."
+  },
+  {
+    "id": 108,
+    "type": "7",
+    "text": "I bet [user] has a mustache..."
+  },
+  {
+    "id": 109,
+    "type": "7",
+    "text": "seriously, i agree"
+  },
+  {
+    "id": 110,
+    "type": "7",
+    "text": "i agree"
+  },
+  {
+    "id": 111,
+    "type": "8",
+    "text": "me 2"
+  },
+  {
+    "id": 112,
+    "type": "8",
+    "text": "yeah, what can we do about [user]?"
+  },
+  {
+    "id": 113,
+    "type": "8",
+    "text": "When is [user] just going to give up?"
+  },
+  {
+    "id": 114,
+    "type": "8",
+    "text": "i'm sorry, but it just pisses me off when people come here and TOTALLY SUCK"
+  },
+  {
+    "id": 115,
+    "type": "8",
+    "text": "that's exactly what I was gonna say"
+  },
+  {
+    "id": 116,
+    "type": "8",
+    "text": "No respect for the art..."
+  },
+  {
+    "id": 117,
+    "type": "8",
+    "text": "go home [user]"
+  },
+  {
+    "id": 118,
+    "type": "8",
+    "text": "you could use teh \"change room\" button"
+  },
+  {
+    "id": 119,
+    "type": "8",
+    "text": "[npc] - can you boot [user]?"
+  },
+  {
+    "id": 120,
+    "type": "8",
+    "text": "I hope we don't have to leave this room just because of [user]..."
+  },
+  {
+    "id": 121,
+    "type": "8",
+    "text": "no kidding"
+  },
+  {
+    "id": 122,
+    "type": "9",
+    "text": "someone should mail the admins about [user]"
+  },
+  {
+    "id": 123,
+    "type": "9",
+    "text": "is it against the rules to suck?"
+  },
+  {
+    "id": 124,
+    "type": "9",
+    "text": "you'd think so..."
+  },
+  {
+    "id": 125,
+    "type": "9",
+    "text": "for sure"
+  },
+  {
+    "id": 126,
+    "type": "9",
+    "text": "i wish [user] would just leave already"
+  },
+  {
+    "id": 127,
+    "type": "9",
+    "text": "talk about overstaying your welcome"
+  },
+  {
+    "id": 128,
+    "type": "9",
+    "text": "do you think [user] is even there? slowest typer in the room!"
+  },
+  {
+    "id": 129,
+    "type": "10",
+    "text": "i can't believe we have to leave this room"
+  },
+  {
+    "id": 130,
+    "type": "10",
+    "text": "why can't [user] take the hint? go away!"
+  },
+  {
+    "id": 131,
+    "type": "10",
+    "text": "[user] is going to force us all to switch rooms..."
+  },
+  {
+    "id": 132,
+    "type": "10",
+    "text": "it's getting late here anywya..."
+  },
+  {
+    "id": 133,
+    "type": "0",
+    "text": "and then [npc] got him bounced out of the room!"
+  },
+  {
+    "id": 134,
+    "type": "0",
+    "text": "32/f/Boston"
+  },
+  {
+    "id": 135,
+    "type": "0",
+    "text": "haha, very funny!"
+  },
+  {
+    "id": 136,
+    "type": "0",
+    "text": "you haven't played much with [npc] then... ;)"
+  },
+  {
+    "id": 137,
+    "type": "0",
+    "text": "it's hard to get used to, but you'll get it"
+  },
+  {
+    "id": 138,
+    "type": "0",
+    "text": "i've ben back every day since i found out about it"
+  },
+  {
+    "id": 139,
+    "type": "1",
+    "text": "I got adicted right away, too."
+  },
+  {
+    "id": 140,
+    "type": "1",
+    "text": "mostly i like the verses games, i think"
+  },
+  {
+    "id": 141,
+    "type": "0",
+    "text": "That was great, [npc]. Crackin' me up!"
+  },
+  {
+    "id": 142,
+    "type": "0",
+    "text": "so mostly it's about making up funny stuff, or deep stuff"
+  },
+  {
+    "id": 143,
+    "type": "0",
+    "text": "Don't feel bad... it's like that..."
+  },
+  {
+    "id": 144,
+    "type": "0",
+    "text": "excellent round!"
+  },
+  {
+    "id": 145,
+    "type": "0",
+    "text": "amazing [npc]"
+  },
+  {
+    "id": 146,
+    "type": "0",
+    "text": "crazy deep stuff"
+  },
+  {
+    "id": 147,
+    "type": "0",
+    "text": "no way!"
+  },
+  {
+    "id": 148,
+    "type": "0",
+    "text": "shut up!"
+  },
+  {
+    "id": 149,
+    "type": "0",
+    "text": "i'm so jealous of [npc]"
+  },
+  {
+    "id": 150,
+    "type": "0",
+    "text": "gg"
+  },
+  {
+    "id": 151,
+    "type": "0",
+    "text": "yes! hahahahaha"
+  },
+  {
+    "id": 152,
+    "type": "0",
+    "text": "was he just not very good at englishs?"
+  },
+  {
+    "id": 153,
+    "type": "0",
+    "text": "cramped my style"
+  },
+  {
+    "id": 154,
+    "type": "0",
+    "text": "no, but my brother did once"
+  },
+  {
+    "id": 155,
+    "type": "0",
+    "text": "totally"
+  },
+  {
+    "id": 156,
+    "type": "0",
+    "text": "wow wow"
+  },
+  {
+    "id": 157,
+    "type": "0",
+    "text": "that's my myspace page. i con't really use that anymore...."
+  },
+  {
+    "id": 158,
+    "type": "s1a",
+    "text": "[sp1] I don't know what to tell her."
+  },
+  {
+    "id": 159,
+    "type": "s1a",
+    "text": "[sp2] does she know about natalia?"
+  },
+  {
+    "id": 160,
+    "type": "s1a",
+    "text": "[spect1] they met at that work party -- you were there, i think"
+  },
+  {
+    "id": 161,
+    "type": "s1a",
+    "text": "[spect2] oh yeah"
+  },
+  {
+    "id": 162,
+    "type": "s2a",
+    "text": "[spect1] I mean, we've been together for a long time, you know?"
+  },
+  {
+    "id": 163,
+    "type": "s2a",
+    "text": "[spect2] how did you and nat get togethr?"
+  },
+  {
+    "id": 164,
+    "type": "s2a",
+    "text": "[spect1] haha, that's a good one"
+  },
+  {
+    "id": 165,
+    "type": "s3a",
+    "text": "[spect1] we just kept going out or lunch, yknow?"
+  },
+  {
+    "id": 166,
+    "type": "s3a",
+    "text": "i mean, at first everyone went, but a couple days nobody else was in the office"
+  },
+  {
+    "id": 167,
+    "type": "s3a",
+    "text": "[spect1] one day she was like, hey - i gotta swing by my place first"
+  },
+  {
+    "id": 168,
+    "type": "s3a",
+    "text": "[spect1] and then we never ended up goingg out -- ;)"
+  },
+  {
+    "id": 169,
+    "type": "s4a",
+    "text": "[spect2] she's hot, though"
+  },
+  {
+    "id": 170,
+    "type": "s4a",
+    "text": "[spect1] no doubt - you should see her nekkid haha"
+  },
+  {
+    "id": 171,
+    "type": "s4a",
+    "text": "[spect2] haha"
+  },
+  {
+    "id": 172,
+    "type": "s4a",
+    "text": "[spect2] (.)(.)"
+  },
+  {
+    "id": 173,
+    "type": "s4a",
+    "text": "[spect1] hahahahah"
+  },
+  {
+    "id": 174,
+    "type": "s5a",
+    "text": "[spect1] no, but seriously, but i think i love her now"
+  },
+  {
+    "id": 175,
+    "type": "s5a",
+    "text": "[spect2] no way..."
+  },
+  {
+    "id": 176,
+    "type": "s5a",
+    "text": "[spect2] !!!!"
+  },
+  {
+    "id": 177,
+    "type": "s5a",
+    "text": "[spect1] seriously"
+  },
+  {
+    "id": 178,
+    "type": "s6a",
+    "text": "[spect2] better to not rock the boat"
+  },
+  {
+    "id": 179,
+    "type": "s6a",
+    "text": "[spect2] just keep it on the side"
+  },
+  {
+    "id": 180,
+    "type": "s6a",
+    "text": "[spect1] you think?"
+  },
+  {
+    "id": 181,
+    "type": "s7a",
+    "text": "[spect2] totally"
+  },
+  {
+    "id": 182,
+    "type": "s7a",
+    "text": "[spect2] cuz if you never get caught, then ..."
+  },
+  {
+    "id": 183,
+    "type": "s7a",
+    "text": "[spect2] no harm no foul"
+  },
+  {
+    "id": 184,
+    "type": "s8a",
+    "text": "[spect1] well at first that was my thing, right?"
+  },
+  {
+    "id": 185,
+    "type": "s8a",
+    "text": "[spect1] but then deb got diagnosed"
+  },
+  {
+    "id": 186,
+    "type": "s8a",
+    "text": "[spect2] hmm..."
+  },
+  {
+    "id": 187,
+    "type": "s8a",
+    "text": "[spect1] i know - i feeel lik ei should let her know you know?"
+  },
+  {
+    "id": 188,
+    "type": "s9a",
+    "text": "[spect2] but, really, what's it gonna do for her?"
+  },
+  {
+    "id": 189,
+    "type": "s9a",
+    "text": "[spect2] you know - like she won' know anyway in a while"
+  },
+  {
+    "id": 190,
+    "type": "s9a",
+    "text": "[spect2] and what about the kids?"
+  },
+  {
+    "id": 191,
+    "type": "s10a",
+    "text": "[spect1] i know, i know"
+  },
+  {
+    "id": 192,
+    "type": "s10a",
+    "text": "[spect1] i just feel so dirty keeping it from her"
+  },
+  {
+    "id": 193,
+    "type": "s10a",
+    "text": "[spect2] i understand..."
+  },
+  {
+    "id": 194,
+    "type": "s10a",
+    "text": "[spect1] and it'll be so much work to take care of her..."
+  },
+  {
+    "id": 195,
+    "type": "s1b",
+    "text": "[spect1] i dunno, it wsa in some documentary we were watching last night"
+  },
+  {
+    "id": 196,
+    "type": "s1b",
+    "text": "[spect1] do you remember what it was?"
+  },
+  {
+    "id": 197,
+    "type": "s1b",
+    "text": "[spect3] yeah, on the History channel"
+  },
+  {
+    "id": 198,
+    "type": "s2b",
+    "text": "[spect2] so you think we should do it like they did, huh?"
+  },
+  {
+    "id": 199,
+    "type": "s2b",
+    "text": "[spect1] exactly"
+  },
+  {
+    "id": 200,
+    "type": "s2b",
+    "text": "[spect2] i dunno. you think we should make it more complicated?"
+  },
+  {
+    "id": 201,
+    "type": "s3b",
+    "text": "[spect1] it's not really more complicated. it's just a little different..."
+  },
+  {
+    "id": 202,
+    "type": "s3b",
+    "text": "[spect1] WAY COOLER, though"
+  },
+  {
+    "id": 203,
+    "type": "s3b",
+    "text": "[spect3] way cooler, for sure"
+  },
+  {
+    "id": 204,
+    "type": "s4b",
+    "text": "[spect2] yeah, but you know, those guys ended up getting shot"
+  },
+  {
+    "id": 205,
+    "type": "s4b",
+    "text": "[spect1] that's cuz of whaht i was saying...."
+  },
+  {
+    "id": 206,
+    "type": "s4b",
+    "text": "[spect1] look at it like an inspiration, not a fucking roadmap"
+  },
+  {
+    "id": 207,
+    "type": "s5b",
+    "text": "[spect2] so explain to me how you make sure there's no violence"
+  },
+  {
+    "id": 208,
+    "type": "s5b",
+    "text": "[spect1] simple - it's all a psych"
+  },
+  {
+    "id": 209,
+    "type": "s5b",
+    "text": "[spect1] like some social engineering style..."
+  },
+  {
+    "id": 210,
+    "type": "s6b",
+    "text": "[spect1] we all know that Roberts and Vickie aren't going to put up a struggle, but if we do it this way it just makes sure we get the psychlogical drop on them"
+  },
+  {
+    "id": 211,
+    "type": "s6b",
+    "text": "[spect2] ok.."
+  },
+  {
+    "id": 212,
+    "type": "s7b",
+    "text": "[spect2] are the guns loaded?"
+  },
+  {
+    "id": 213,
+    "type": "s7b",
+    "text": "[spect1] yeah - loaded, real guns..."
+  },
+  {
+    "id": 214,
+    "type": "s7b",
+    "text": "[spect1] it's easier you know? to get a real gun..."
+  },
+  {
+    "id": 215,
+    "type": "s7b",
+    "text": "[spect1] like where do you get a fake gun that looks real?"
+  },
+  {
+    "id": 216,
+    "type": "s8b",
+    "text": "[spect2] lemme go ask the kid who lives downstairs..."
+  },
+  {
+    "id": 217,
+    "type": "s8b",
+    "text": "[spect1] haha"
+  },
+  {
+    "id": 218,
+    "type": "s8b",
+    "text": "[spect3] lol"
+  },
+  {
+    "id": 219,
+    "type": "s9b",
+    "text": "[spect1] seriously, though, it's nothing to worry about"
+  },
+  {
+    "id": 220,
+    "type": "s9b",
+    "text": "[spect2] that's waht you say..."
+  },
+  {
+    "id": 221,
+    "type": "s9b",
+    "text": "[spect1] haha"
+  },
+  {
+    "id": 222,
+    "type": "s10b",
+    "text": "[spect1] if i were you, i'd worry more abot getting your shit straight"
+  },
+  {
+    "id": 223,
+    "type": "s10b",
+    "text": "[spect2] don't worry about me"
+  },
+  {
+    "id": 224,
+    "type": "s10b",
+    "text": "[spect1] well, i am fucking worried about you"
+  },
+  {
+    "id": 225,
+    "type": "s1c",
+    "text": "[spect1] hi all..."
+  },
+  {
+    "id": 226,
+    "type": "s1c",
+    "text": "[spect1] asl?"
+  },
+  {
+    "id": 227,
+    "type": "s1c",
+    "text": "[spect1] m/38/ny"
+  },
+  {
+    "id": 228,
+    "type": "s2c",
+    "text": "[spect2] f 43 AK"
+  },
+  {
+    "id": 229,
+    "type": "s2c",
+    "text": "[spect1] hey babe"
+  },
+  {
+    "id": 230,
+    "type": "s2c",
+    "text": "[spect2] hey yourself"
+  },
+  {
+    "id": 231,
+    "type": "s3c",
+    "text": "[spect1] how's the weather up there?"
+  },
+  {
+    "id": 232,
+    "type": "s3c",
+    "text": "[spect2] cold."
+  },
+  {
+    "id": 233,
+    "type": "s3c",
+    "text": "[spect2] how's the weather down south?"
+  },
+  {
+    "id": 234,
+    "type": "s4c",
+    "text": "[spect1] ooh, too bad. maybe i can keep u warm? ^_^"
+  },
+  {
+    "id": 235,
+    "type": "s4c",
+    "text": "[spect2] how cold you do that?"
+  },
+  {
+    "id": 236,
+    "type": "s4c",
+    "text": "[spect2] SP? *cold* = *could*"
+  },
+  {
+    "id": 237,
+    "type": "s5c",
+    "text": "[spect1] i live in an old building... it's too hot..."
+  },
+  {
+    "id": 238,
+    "type": "s5c",
+    "text": "[spect2] 000000h... take something off"
+  },
+  {
+    "id": 239,
+    "type": "s5c",
+    "text": "[spect1] i could hold something warm against you"
+  },
+  {
+    "id": 240,
+    "type": "s6c",
+    "text": "[spect1] what?"
+  },
+  {
+    "id": 241,
+    "type": "s6c",
+    "text": "[spect2] what"
+  },
+  {
+    "id": 242,
+    "type": "s6c",
+    "text": "[spect1] tot ake off... what?"
+  },
+  {
+    "id": 243,
+    "type": "s7c",
+    "text": "[spect2] oh! LOL..."
+  },
+  {
+    "id": 244,
+    "type": "s7c",
+    "text": "[spect2] your pants"
+  },
+  {
+    "id": 245,
+    "type": "s7c",
+    "text": "[spect1] already off"
+  },
+  {
+    "id": 246,
+    "type": "s7c",
+    "text": "[spect2] ready 4 action????"
+  },
+  {
+    "id": 247,
+    "type": "s7c",
+    "text": "[spect1] y"
+  },
+  {
+    "id": 248,
+    "type": "s7c",
+    "text": "[spect1] es"
+  },
+  {
+    "id": 249,
+    "type": "s8c",
+    "text": "[spect2] ok, then -- yor underwear..."
+  },
+  {
+    "id": 250,
+    "type": "s8c",
+    "text": "[spect1] kk"
+  },
+  {
+    "id": 251,
+    "type": "s8c",
+    "text": "[spect2] were they already off?"
+  },
+  {
+    "id": 252,
+    "type": "s8c",
+    "text": "[spect2] ???"
+  },
+  {
+    "id": 253,
+    "type": "s9c",
+    "text": "[spect1] no"
+  },
+  {
+    "id": 254,
+    "type": "s9c",
+    "text": "[spect2] u sure? ;)"
+  },
+  {
+    "id": 255,
+    "type": "s9c",
+    "text": "[spect1] gie me bj"
+  },
+  {
+    "id": 256,
+    "type": "s10c",
+    "text": "[spect2] what?"
+  },
+  {
+    "id": 257,
+    "type": "s10c",
+    "text": "[spect2] ??? HELLO?"
+  },
+  {
+    "id": 258,
+    "type": "s10c",
+    "text": "[spect1] nevrmind"
+  },
+  {
+    "id": 259,
+    "type": "s10c",
+    "text": "[spect2] what do u mean?"
+  },
+  {
+    "id": 260,
+    "type": "s10c",
+    "text": "[spect1]nvrmind... i'm done"
+  },
+  {
+    "id": 261,
+    "type": "s10c",
+    "text": "[spect2] wht?"
+  },
+  {
+    "id": 262,
+    "type": "s10c",
+    "text": "[spect1] i gotta go neway..."
+  },
+  {
+    "id": 263,
+    "type": "s10c",
+    "text": "[spect1] cya"
+  },
+  {
+    "id": 264,
+    "type": "s1d",
+    "text": "[spect1] Is this channel private?"
+  },
+  {
+    "id": 265,
+    "type": "s1d",
+    "text": "[spect2] yeah, i made it totally private"
+  },
+  {
+    "id": 266,
+    "type": "s1d",
+    "text": "[spect1] ok, then what do you wanna know?"
+  },
+  {
+    "id": 267,
+    "type": "s2d",
+    "text": "[spect2] well, first off who is doing what?"
+  },
+  {
+    "id": 268,
+    "type": "s2d",
+    "text": "[spect1] like we talked about on the phone... jesse is going to pick-up at 4 and then he'll meet us after"
+  },
+  {
+    "id": 269,
+    "type": "s2d",
+    "text": "[spect1] is there a way to filter out these other fuckers?"
+  },
+  {
+    "id": 270,
+    "type": "s3d",
+    "text": "[spect2] man, that's too late. cann't get get it any sooner?"
+  },
+  {
+    "id": 271,
+    "type": "s3d",
+    "text": "[spect2] i think you just have to type slash-ignore or whatever"
+  },
+  {
+    "id": 272,
+    "type": "s4d",
+    "text": "[spect1] he sez he can't do it any sooner. it's like his bros friend or sumpthin"
+  },
+  {
+    "id": 273,
+    "type": "s4d",
+    "text": "[spect1] is there a thingg i can run to get a list of commands?"
+  },
+  {
+    "id": 274,
+    "type": "s5d",
+    "text": "[spect1] /ignore"
+  },
+  {
+    "id": 275,
+    "type": "s5d",
+    "text": "[spect2] don't you think? how fast will it work?"
+  },
+  {
+    "id": 276,
+    "type": "s5d",
+    "text": "[spect1] don't work"
+  },
+  {
+    "id": 277,
+    "type": "s5d",
+    "text": "[spect2] what don't work?"
+  },
+  {
+    "id": 278,
+    "type": "s6d",
+    "text": "[spect2] you don't think it'll work out?"
+  },
+  {
+    "id": 279,
+    "type": "s6d",
+    "text": "[spect1] no, no... haha, why u so paranoya?"
+  },
+  {
+    "id": 280,
+    "type": "s7d",
+    "text": "[spect2] i got her coming over at 7"
+  },
+  {
+    "id": 281,
+    "type": "s7d",
+    "text": "[spect1] cutting it close"
+  },
+  {
+    "id": 282,
+    "type": "s7d",
+    "text": "[spect1] tole you not to cut itt so close"
+  },
+  {
+    "id": 283,
+    "type": "s8d",
+    "text": "[spect2] she gotta be home by 11"
+  },
+  {
+    "id": 284,
+    "type": "s8d",
+    "text": "[spect1] haha, no no no"
+  },
+  {
+    "id": 285,
+    "type": "s8d",
+    "text": "[spect1] she'll still be way fucked up, dude"
+  },
+  {
+    "id": 286,
+    "type": "s8d",
+    "text": "[spect2] whaddaya mean?"
+  },
+  {
+    "id": 287,
+    "type": "s9d",
+    "text": "[spect2] oh"
+  },
+  {
+    "id": 288,
+    "type": "s9d",
+    "text": "[spect2] no, it's ok"
+  },
+  {
+    "id": 289,
+    "type": "s9d",
+    "text": "[spect2] i'm picking her up"
+  },
+  {
+    "id": 290,
+    "type": "s10d",
+    "text": "[spect1] you gonna just drop her off? that's fucking bawlz, dude"
+  },
+  {
+    "id": 291,
+    "type": "s10d",
+    "text": "[spect2] what? you said it'd just look like she's drunk?"
+  }
+]

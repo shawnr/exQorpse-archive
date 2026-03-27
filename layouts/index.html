@@ -1,0 +1,93 @@
+{{ define "head" }}
+<link rel="stylesheet" href="/css/archive.css">
+{{ end }}
+
+{{ define "bodyclass" }}archive-home{{ end }}
+
+{{ define "main" }}
+<div class="archive-container">
+  <header class="archive-header">
+    <div class="archive-header-inner">
+      <img src="/images/xqHeader.gif" alt="exQorpse.com" class="archive-logo">
+      <p class="archive-tagline">Play together. Creatively.</p>
+    </div>
+  </header>
+
+  <section class="archive-cta">
+    <a href="/play/" class="cta-button">Experience the Archival Simulation</a>
+    <p class="cta-sub">Step into the game as it existed in 2006. No account needed.</p>
+  </section>
+
+  <section class="archive-about">
+    <h2>What is exQorpse?</h2>
+    <p><strong>exQorpse.com</strong> was an interactive art and electronic literature project created by <a href="http://shawnrider.com">Shawn Rider</a> in 2005&ndash;2006. It ran online for over 20 years.</p>
+    <p>On the surface, it was a free multiplayer word game site built around <a href="https://en.wikipedia.org/wiki/Exquisite_corpse">Exquisite Corpse</a>&mdash;the surrealist parlor game invented by French artists in the 1920s. Players would enter a nickname, join a "room" of other players, and collaborate on poems or absurdist Q&amp;A sessions.</p>
+
+    <h3>The Three Layers</h3>
+    <ol>
+      <li><strong>The Games:</strong> Two varieties of exquisite corpse. In <em>Verses</em>, four players each contribute a line to a collaborative poem. In <em>Questions</em>, one player asks a question while three others supply answers&mdash;without knowing the question. The results ranged from absurd to accidentally profound.</li>
+      <li><strong>The Ghosts:</strong> There were never any real "other players" in your room. The opponents and spectators you saw were names drawn from the usernames of everyone who had ever played. Your own contributions became material for future players' games. You were always playing with ghosts&mdash;echoes of past visitors.</li>
+      <li><strong>The Rejection:</strong> No matter how well you played, the chat sidebar would gradually turn hostile. The "other players" would start complaining about your work, questioning your skill, and eventually ganging up to have you banned. This was scripted&mdash;an inevitable arc of social rejection that played out over roughly 10 rounds, ending with a mock moderation notice recording your IP address.</li>
+    </ol>
+
+    <h3>The Spectator Stories</h3>
+    <p>While you played, "spectators" in the sidebar would carry on their own conversations&mdash;four pre-written storylines that unfolded across your session. These ranged from mundane to increasingly unsettling, creating an ambient sense of unease alongside the main game.</p>
+
+    <h3>Content Warning</h3>
+    <p>This archival simulation contains the original user-generated content and authored storylines from 2006. Some content includes mature themes, crude language, and deliberately uncomfortable scenarios. The spectator storylines were designed to be provocative as part of the artistic experience. Player-submitted content has been screened for spam and slurs, but may still contain crude or unexpected material. This is an art piece, not a children's game.</p>
+
+    <h3>The Archival Simulation</h3>
+    <p>The version you can play here is a static reconstruction. It runs entirely in your browser using the original database of player contributions and authored chat scripts, converted to flat JSON files. No data is saved&mdash;your contributions appear in the game but vanish when you leave. The gameplay experience is faithful to the original, including the inevitable betrayal.</p>
+  </section>
+
+  <section class="archive-meta">
+    <h2>Project Details</h2>
+    <ul>
+      <li><strong>Created:</strong>June 2006</li>
+      <li><strong>Author:</strong> Shawn Rider</li>
+      <li><strong>Original Stack:</strong> PHP 5, MySQL, JavaScript (Surebert AJAX, Moo.FX, Prototype.lite)</li>
+      <li><strong>Archived:</strong> 2026 (converted to static site with Hugo)</li>
+      <li><strong>License:</strong> <a href="https://creativecommons.org/licenses/by-nc-sa/2.5/">CC BY-NC-SA 2.5</a></li>
+    </ul>
+    <p>Over its lifetime, the site collected contributions from <strong>300+ players</strong> who submitted <strong>350+ verse lines</strong> and <strong>320+ questions and answers</strong>. Twenty-five players made it all the way to the end and got "banned."</p>
+
+    <h3>The Banned</h3>
+    <p>These players stuck it out through the full arc of rejection and received the mock ban screen. A few came back for more.</p>
+    <table class="ban-roll">
+      <thead><tr><th>Nickname</th><th>Date Banned</th></tr></thead>
+      <tbody>
+        <tr><td>shawnr</td><td>June 21, 2006</td></tr>
+        <tr><td>drjt</td><td>June 21, 2006</td></tr>
+        <tr><td>Littlenero</td><td>June 22, 2006</td></tr>
+        <tr><td>mailleman</td><td>June 22, 2006</td></tr>
+        <tr><td>stinkster</td><td>June 22, 2006</td></tr>
+        <tr><td>Selma324</td><td>June 22, 2006</td></tr>
+        <tr><td>littlenero</td><td>June 23, 2006</td></tr>
+        <tr><td>Funfun1115</td><td>June 23, 2006</td></tr>
+        <tr><td>capt_planet</td><td>June 23, 2006</td></tr>
+        <tr><td>shawnr</td><td>June 23, 2006</td></tr>
+        <tr><td>banshee</td><td>June 23, 2006</td></tr>
+        <tr><td>Eric</td><td>June 23, 2006</td></tr>
+        <tr><td>return</td><td>June 23, 2006</td></tr>
+        <tr><td>roncore</td><td>June 24, 2006</td></tr>
+        <tr><td>JMo</td><td>June 24, 2006</td></tr>
+        <tr><td>roots</td><td>June 27, 2006</td></tr>
+        <tr><td>Will</td><td>June 28, 2006</td></tr>
+        <tr><td>zero0ne</td><td>June 28, 2006</td></tr>
+        <tr><td>1</td><td>June 29, 2006</td></tr>
+        <tr><td>13</td><td>June 29, 2006</td></tr>
+        <tr><td>milae</td><td>July 12, 2006</td></tr>
+        <tr><td>seinkowicz</td><td>November 9, 2006</td></tr>
+        <tr><td>Betty</td><td>August 14, 2008</td></tr>
+        <tr><td>jdcoffman</td><td>April 6, 2009</td></tr>
+        <tr><td>mike</td><td>September 28, 2011</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <footer class="archive-footer">
+    <p>Site created by <a href="http://shawnrider.com">Shawn Rider</a>. Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Creative Commons BY-NC-SA 2.5</a>.</p>
+    <p>Originally described as: <em>"An interactive net.art piece, exQorpse.com provides a provocative literary game environment for users built around the parlor game exquisite corpse."</em></p>
+  </footer>
+</div>
+{{ end }}

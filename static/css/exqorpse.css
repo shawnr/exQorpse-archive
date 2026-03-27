@@ -1,0 +1,308 @@
+/*
+  exQorpse.com — Game Simulation Styles
+  Original design by Shawn Rider, June 2006
+  Faithfully preserved for archival simulation
+*/
+
+/* Loading indicator */
+#loadingIndicator {
+  color: #FFFFFF;
+  background-color: #fa7aef;
+  text-align: center;
+  position: absolute;
+  width: 200px;
+  left: 0px;
+  top: 0px;
+  padding: 4px;
+  font-size: small;
+  font-weight: bold;
+}
+
+/* Help text */
+.help {
+  color: #bbbbbb;
+  font-size: small;
+  font-weight: normal;
+}
+
+/* Chat area */
+#chatContainer {
+  padding: 5px;
+  height: 400px;
+  width: 300px;
+  background-color: #CCCCCC;
+  top: 200px;
+  font-size: small;
+}
+
+#chatWindow {
+  overflow: auto;
+  height: 300px;
+  padding: 5px;
+  margin: 5px;
+  background: #EBE7EB;
+  border: 1px solid #666666;
+}
+
+/* Change room button */
+.changeRoom {
+  font-weight: bold;
+  padding: 2px;
+  margin-top: 10px;
+  border: 1px solid #fa7aef;
+  background: #cccccc;
+  text-align: center;
+  cursor: pointer;
+}
+
+.changeRoom:hover {
+  background: #fa7aef;
+  border: 1px solid #333333;
+  color: #FFFFFF;
+}
+
+/* Play again button */
+#playAgain {
+  font-weight: bold;
+  padding: 2px;
+  margin-bottom: 10px;
+  border: 1px solid #fa7aef;
+  background: #cccccc;
+  text-align: center;
+  cursor: pointer;
+}
+
+#playAgain:hover {
+  background: #fa7aef;
+  border: 1px solid #333333;
+  color: #FFFFFF;
+}
+
+/* Social area (players/spectators) */
+#socialArea {
+  font-size: small;
+  padding-left: 10px;
+  overflow: auto;
+  visibility: visible;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #fa7aef;
+  margin-bottom: 15px;
+}
+
+#socialArea p {
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
+
+/* Form elements */
+legend {
+  background: #fa7aef;
+  padding: 2px;
+  border: 1px solid #666666;
+  font-size: small;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+fieldset {
+  margin: 4px;
+}
+
+input {
+  border: solid 1px #666666;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  padding: 2px;
+}
+
+input:focus {
+  border: solid 1px #fa7aef;
+}
+
+/* User metadata */
+.userMeta {
+  font-size: small;
+}
+
+/* Game area */
+#gameArea {
+  width: 350px;
+  overflow: auto;
+}
+
+/* Header */
+#header {
+  margin-top: 0px;
+  margin-bottom: 25px;
+  top: 0px;
+}
+
+/* Lines display */
+#lines ul {
+  list-style-image: none;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+/* Chat line styling */
+.userChatLine {
+  font-weight: bold;
+}
+
+#chatWindow p {
+  margin: 2px 0;
+  font-size: small;
+}
+
+/* Links */
+a:link, a:visited {
+  color: #FF00FF;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  text-decoration: underline;
+}
+
+/* Headings */
+h1 {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Navigation bar */
+#navigation {
+  background-color: #fa7aef;
+  list-style-image: none;
+  list-style-type: none;
+  padding: 0px;
+  border-radius: 4px;
+}
+
+#navigation a:link, #navigation a:visited {
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#navigation a:hover, #navigation a:active {
+  color: #333333;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#navigation ul {
+  padding: 4px;
+  margin: 0px;
+  list-style-image: none;
+  list-style-type: none;
+}
+
+#navigation ul li {
+  padding-left: 2px;
+  padding-right: 2px;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: inline;
+}
+
+/* Footer */
+#footer {
+  background-color: #fa7aef;
+  list-style-image: none;
+  list-style-type: none;
+  padding: 0px;
+  border-radius: 4px;
+}
+
+#footer p {
+  font-size: small;
+  padding: 10px;
+  margin: 0px;
+}
+
+#footer a:link, #footer a:visited, #footer a:hover, #footer a:active {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* Question area */
+#questionArea {
+  font-weight: bold;
+  font-size: large;
+  color: #FF00FF;
+}
+
+#questionArea fieldset {
+  font-size: medium;
+  color: #333333;
+  font-weight: normal;
+}
+
+/* Hidden text banner */
+#headTextBanner {
+  visibility: hidden;
+  margin: 0px;
+  padding: 0px;
+  height: 1px;
+  width: 1px;
+  top: 0px;
+}
+
+/* Main container */
+#main {
+  background-color: #FFFFFF;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 1px;
+  padding-bottom: 10px;
+  width: 760px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  top: 0px;
+}
+
+/* Body */
+body.game-page {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: medium;
+  color: #333333;
+  background-color: #CCCCCC;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+/* Layout columns */
+#leftSide {
+  float: left;
+  width: 420px;
+  margin-right: 15px;
+}
+
+#rightSide {
+  font-size: small;
+  margin-left: 440px;
+  left: 440px;
+}
+
+/* Ban warning */
+.userWarning {
+  background: #fff0f0;
+  border: 2px solid #cc0000;
+  padding: 15px;
+  margin: 10px 0;
+  font-size: small;
+}
+
+.userWarning p {
+  margin: 8px 0;
+}
+
+/* Latest Q&A display on landing */
+.latestQ, .latestV {
+  font-size: small;
+}

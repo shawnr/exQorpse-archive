@@ -1,0 +1,64 @@
+{{ define "head" }}
+<link rel="stylesheet" href="/css/exqorpse.css">
+{{ end }}
+
+{{ define "bodyclass" }}game-page{{ end }}
+
+{{ define "main" }}
+<div id="main">
+  <div id="header">
+    <div id="headTextBanner">
+      <h1>exQorpse.com</h1>
+      <br>Play together. Creatively.
+    </div>
+    <a href="/"><img src="/images/xqHeader.gif" alt="exQorpse.com" border="0"></a>
+    <div id="navigation">
+      <ul>
+        <li><a href="/">archive</a></li>
+        <li><a href="/play/">play</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div id="leftSide">
+    <div id="socialArea">
+      <p>Welcome to the <strong>exQorpse.com Archival Simulation</strong>. This is a recreation of the original 2006 experience. Enter a nickname below to begin playing exquisite corpse games with the ghosts of past players. Your contributions will appear in the game but are not saved. <a href="/">Learn more about this project.</a></p>
+    </div>
+
+    <div id="gameArea">
+      <form id="loginForm" name="loginForm" onsubmit="event.preventDefault(); if(validateLogin()){userLogin();}">
+        <fieldset id="myData">
+          <legend>enter your nickname</legend>
+          <input name="nickname" type="text" id="nickname">
+          <input name="joinGame" type="button" id="joinGame" value="join game" onclick="if(validateLogin()){userLogin();}">
+        </fieldset>
+      </form>
+    </div>
+
+    <div id="loadingIndicator" style="display:none;">loading data...</div>
+  </div>
+
+  <div id="rightSide">
+    <p><img src="/images/latestQ.gif" alt="latest question"></p>
+    <p class="latestQ" id="latestQ"></p>
+    <p><img src="/images/latestV.gif" alt="latest verse"></p>
+    <p class="latestV" id="latestV"></p>
+  </div>
+
+  <br style="clear: both;">
+
+  <div id="footer">
+    <p>
+      <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">
+        <img src="https://licensebuttons.net/l/by-nc-sa/2.5/88x31.png" alt="Creative Commons License" style="border:0; margin-right:8px;" align="left">
+      </a>
+      Site created by Shawn Rider.
+      <br>This work is licensed under a
+      <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Creative Commons Attribution-NonCommercial-ShareAlike 2.5 License</a>.
+    </p>
+    <p>Archival simulation powered by the original exQorpse database (2005&ndash;2006).</p>
+  </div>
+</div>
+
+<script src="/js/exqorpse.js"></script>
+{{ end }}

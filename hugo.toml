@@ -1,0 +1,18 @@
+baseURL = "https://exqorpse.com/"
+languageCode = "en-us"
+title = "exQorpse"
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "An interactive art and electronic literature project by Shawn Rider (2005-2006). Play exquisite corpse games with ghosts of past players."
+  author = "Shawn Rider"
+  yearCreated = "2005"
+  yearArchived = "2026"
+
+[outputs]
+  home = ["HTML"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

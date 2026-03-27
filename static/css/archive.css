@@ -1,0 +1,219 @@
+/*
+  exQorpse.com — Archive Homepage Styles
+  Modern design for the project landing page
+*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body.archive-home {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  color: #2d2d2d;
+  background: #f5f0f5;
+  line-height: 1.6;
+}
+
+.archive-container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header */
+.archive-header {
+  text-align: center;
+  padding: 60px 0 30px;
+}
+
+.archive-header-inner {
+  display: inline-block;
+}
+
+.archive-logo {
+  max-width: 100%;
+  height: auto;
+}
+
+.archive-tagline {
+  font-size: 1.1rem;
+  color: #888;
+  margin-top: 8px;
+  font-style: italic;
+}
+
+/* CTA section */
+.archive-cta {
+  text-align: center;
+  padding: 30px 0 50px;
+}
+
+.cta-button {
+  display: inline-block;
+  background: #fa7aef;
+  color: #fff;
+  text-decoration: none;
+  padding: 16px 36px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  border-radius: 6px;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.cta-button:hover {
+  background: #e85edc;
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+.cta-button:active {
+  transform: translateY(0);
+}
+
+.cta-sub {
+  margin-top: 12px;
+  color: #888;
+  font-size: 0.9rem;
+}
+
+/* About section */
+.archive-about {
+  padding: 40px 0;
+  border-top: 1px solid #ddd;
+}
+
+.archive-about h2 {
+  font-size: 1.6rem;
+  margin-bottom: 16px;
+  color: #1a1a1a;
+}
+
+.archive-about h3 {
+  font-size: 1.2rem;
+  margin-top: 28px;
+  margin-bottom: 10px;
+  color: #1a1a1a;
+}
+
+.archive-about p {
+  margin-bottom: 12px;
+}
+
+.archive-about ol {
+  margin: 12px 0 12px 24px;
+}
+
+.archive-about ol li {
+  margin-bottom: 12px;
+}
+
+.archive-about a {
+  color: #d946c7;
+  text-decoration: underline;
+}
+
+.archive-about a:hover {
+  color: #b030a0;
+}
+
+/* Content warning */
+.archive-about h3:nth-of-type(3) {
+  color: #993300;
+}
+
+/* Meta section */
+.archive-meta {
+  padding: 40px 0;
+  border-top: 1px solid #ddd;
+}
+
+.archive-meta h2 {
+  font-size: 1.4rem;
+  margin-bottom: 16px;
+  color: #1a1a1a;
+}
+
+.archive-meta ul {
+  list-style: none;
+  margin: 0 0 16px 0;
+  padding: 0;
+}
+
+.archive-meta ul li {
+  padding: 6px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.archive-meta a {
+  color: #d946c7;
+  text-decoration: underline;
+}
+
+/* Ban roll table */
+.ban-roll {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 12px 0 8px;
+  font-size: 0.9rem;
+}
+
+.ban-roll thead {
+  background: #fa7aef;
+  color: #fff;
+}
+
+.ban-roll th {
+  text-align: left;
+  padding: 6px 12px;
+  font-weight: 600;
+}
+
+.ban-roll td {
+  padding: 5px 12px;
+  border-bottom: 1px solid #eee;
+}
+
+.ban-roll tbody tr:hover {
+  background: #fdf0fc;
+}
+
+/* Footer */
+.archive-footer {
+  padding: 30px 0;
+  border-top: 1px solid #ddd;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #888;
+}
+
+.archive-footer p {
+  margin-bottom: 8px;
+}
+
+.archive-footer a {
+  color: #d946c7;
+}
+
+.archive-footer em {
+  display: block;
+  margin-top: 8px;
+  font-size: 0.85rem;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .archive-header {
+    padding: 30px 0 20px;
+  }
+
+  .cta-button {
+    padding: 14px 24px;
+    font-size: 1rem;
+  }
+
+  .archive-about, .archive-meta {
+    padding: 24px 0;
+  }
+}

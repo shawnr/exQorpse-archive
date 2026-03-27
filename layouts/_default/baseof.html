@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} — exQorpse</title>
+  <meta name="description" content="{{ .Site.Params.description }}">
+  <link rel="icon" href="/favicon.ico">
+  {{ block "head" . }}{{ end }}
+</head>
+<body class="{{ block "bodyclass" . }}{{ end }}">
+  {{ block "main" . }}{{ end }}
+</body>
+</html>
